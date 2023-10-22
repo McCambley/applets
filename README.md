@@ -28,5 +28,14 @@ Applets is a collection of small, focused applications designed to perform speci
 
 ---
 
+## Projects
+
+| Project Name | Description | GitHub Repository | Live Project |
+|--------------|-------------|-------------------|--------------|
+| Project 1    | Brief description of what this applet does. | [GitHub](#) | [Live](#) |
+| Project 2    | Brief description of what this applet does. | [GitHub](#) | [Live](#) |
+| Project 3    | Brief description of what this applet does. | [GitHub](#) | [Live](#) |
+
+---
 <!-- Add more projects as needed -->
 
