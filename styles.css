@@ -81,3 +81,7 @@ hr {
   border-top: 2px solid #ccc; /* Gray horizontal rule */
   margin: 20px 0;
 }
+
+img {
+  border-radius: 12px;
+}

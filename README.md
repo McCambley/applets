@@ -4,44 +4,84 @@
 
 Applets is a collection of small, focused applications designed to perform specific tasks. Browse through our collection and find the applet that suits your needs!
 
----
+## Table of Contents
 
-### Projects
+- [Plate Calculator](#plate-calculator)
+- [Financial Assistant](#financial-assistant)
+- [Accessible Voice Assistant](#accessible-voice-assistant)
+- [Spotify Assistant](#spotify-assistant)
+- [SheeeeshBot](#sheeeeshbot)
+- [Metronome](#metronome)
+- [Bird Proxy](#bird-proxy)
 
-#### Project Name 1
-
-- **Description**: Brief description of what this applet does.
-- **GitHub Repository**: [Link to GitHub Repository](#)
-- **Live Project**: [Link to Live Project](#)
-
----
-
-#### Project Name 2
-
-- **Description**: Brief description of what this applet does.
-- **GitHub Repository**: [Link to GitHub Repository](#)
-- **Live Project**: [Link to Live Project](#)
-
----
-
-#### Project Name 3
-
-- **Description**: Brief description of what this applet does.
-- **GitHub Repository**: [Link to GitHub Repository](#)
-- **Live Project**: [Link to Live Project](#)
-
----
+<!-- --- -->
 
 ## Projects
 
-| Project Name | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | GitHub Repository | Live Project |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ |
-| Project 1    | A long description of what this applet does. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non volutpat lorem. Sed at accumsan urna. Cras cursus sed felis finibus convallis. Ut ac enim leo. Aenean pharetra accumsan placerat. Duis sodales pellentesque hendrerit. Nam faucibus felis risus, ac molestie nunc porta ut. Sed dictum erat molestie ex elementum auctor. Nullam quis tortor metus. Fusce velit orci, pulvinar a suscipit ac, dapibus et nisl. Quisque congue volutpat rhoncus. Nullam nec nunc quis mi porta vulputate. Maecenas volutpat quam eget ultricies lacinia. |
+### Plate Calculator
 
-| [GitHub](#) | [Live](#) |
-| Project 2 | Brief description of what this applet does. | [GitHub](#) | [Live](#) |
-| Project 3 | Brief description of what this applet does. | [GitHub](#) | [Live](#) |
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](#)
+- [**live Project**](#)
 
----
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
 
-<!-- Add more projects as needed -->
+<!-- --- -->
+
+### Financial Assistant
+
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](#)
+- [**live Project**](#)
+
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+
+<!-- --- -->
+
+### Accessible Voice Assistant
+
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](#)
+- [**live Project**](#)
+
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+
+<!-- --- -->
+
+### Spotify Assistant
+
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](#)
+- [**live Project**](#)
+
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+
+<!-- --- -->
+
+### SheeeeshBot
+
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](#)
+- [**live Project**](#)
+
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+
+<!-- --- -->
+
+### Metronome
+
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](#)
+- [**live Project**](#)
+
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+
+<!-- --- -->
+
+### Bird Proxy
+
+- **Description**: Brief description of what this applet does.
+- [**GitHub Repository**](https://github.com/McCambley/bird-proxy)
+- [[**live Project**](#)
+
+<img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97?auto=format&fit=crop&q=80&w=2940&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
