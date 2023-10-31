@@ -1,0 +1,80 @@
+@import url("/normalize.css");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* Style for the Markdown content */
+#markdown-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #252b42; /* Dark blue background color */
+  color: #fff; /* White text color */
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Style for headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ccc; /* Gray heading color */
+}
+
+/* Style for links */
+a {
+  color: #3498db; /* Blue link color */
+  text-decoration: none;
+  -webkit-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #2980b9; /* Darker blue on hover */
+}
+
+/* Style for code blocks */
+pre {
+  background-color: #333; /* Dark code block background color */
+  color: #fff; /* White text color */
+  padding: 10px;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+/* Style for inline code */
+code {
+  background-color: #444; /* Dark inline code background color */
+  color: #ccc; /* Gray inline code text color */
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Style for blockquotes */
+blockquote {
+  border-left: 4px solid #ccc; /* Gray border on blockquotes */
+  margin: 0;
+  padding: 10px;
+}
+
+/* Style for lists */
+ul,
+ol {
+  margin: 0 0 20px 20px;
+  padding: 0;
+}
+
+/* Style for list items */
+li {
+  margin-bottom: 5px;
+}
+
+/* Style for horizontal rules */
+hr {
+  border: none;
+  border-top: 2px solid #ccc; /* Gray horizontal rule */
+  margin: 20px 0;
+}
