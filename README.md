@@ -23,7 +23,11 @@ This application helps a weight lifter calculate what plats sould be added to a 
 - [**GitHub Repository**](https://github.com/McCambley/plate-calculator)
 - [**Live Project**](https://mccambley.github.io/plate-calculator/)
 
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/plates_1.png" alt="Plate calculator" title="Plate Calculator" width="100%" height="100%" />
+
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/plates_2.png" alt="Plate calculator" title="Plate Calculator" width="100%" height="100%" />
+
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/plates_3.png" alt="Plate calculator" title="Plate Calculator" width="100%" height="100%" />
 
 ---
 
@@ -34,7 +38,8 @@ This webpage was built to guide my younger sister along the beginnings of her fi
 - [**GitHub Repository**](https://github.com/McCambley/money)
 - [**Live Project**](https://mccambley.github.io/money/)
 
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/finance_1.png" alt="A budget calculator" title="Financial Assistant" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/finance_2.png" alt="A financial chatbot" title="Financial Assistant" width="100%" height="100%" />
 
 ---
 
@@ -45,7 +50,8 @@ Inspired by the tsunami of interest around ChatGPT, I was driven to create a voi
 - [**GitHub Repository**](https://github.com/McCambley/chat-chat)
 - [**Live Project**](https://chat-chat-coral.vercel.app/)
 
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/chat_1.png" alt="An accessible voice assistant conversation" title="Accessible Voice Assistant" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/chat_2.png" alt="An accessible voice assistant conversation" title="Accessible Voice Assistant" width="100%" height="100%" />
 
 ---
 
@@ -54,8 +60,6 @@ Inspired by the tsunami of interest around ChatGPT, I was driven to create a voi
 I am obsessive about keeping up to date with musicians' releases on Spotify. Every week, if an artists I follow releases a new song, I listen to it. If they release an album, I listen to that album. This application make that process easier, by creating playlists of new songs and albums such that I can stay up to date with my favorite artists as efficiently as possible.
 
 - [**GitHub Repository**](https://github.com/McCambley/releases)
-
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
 
 ---
 
@@ -66,7 +70,7 @@ Whenever I hear a song that makes me crunch my face in appreciation, I save that
 - [**GitHub Repository**](https://github.com/McCambley/yeeeesh)
 - [**Live Playlist**](https://open.spotify.com/playlist/6SeniaKv8gLd9XDKASj2Oi?si=7ffa5b18f5ab4c8b)
 
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/sheeeesh.png" alt="The Sheeeesh playlist" title="Sheeeesh" width="100%" height="100%" />
 
 ---
 
@@ -77,7 +81,8 @@ This application is simple. Press a button at the rate of a song, and it will ou
 - [**GitHub Repository**](https://github.com/McCambley/metronome)
 - [**Live Project**](https://mccambley.github.io/metronome/)
 
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/metro_1.png" alt="The Metronome" title="Metronome" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/metro_2.png" alt="The Metronome" title="Metronome" width="100%" height="100%" />
 
 ---
 
@@ -87,4 +92,5 @@ This application is a proxy server for [Aviary](https://github.com/McCambley/hac
 
 - [**GitHub Repository**](https://github.com/McCambley/bird-proxy)
 
-<img src="" alt="Dog running" title="A cute kitten" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/birds_1.png" alt="A bird song music player" title="Bird Proxy" width="100%" height="100%" />
+<img style='border-radius: 56px; margin-bottom: 1rem; box-shadow: 0 8px 24px rgba(0,0,0,.3)' src="./images/birds_2.png" alt="A bird song music player" title="Bird Proxy" width="100%" height="100%" />
